@@ -33,10 +33,10 @@ A página foi inspirada pelo "ge.globo", buscando recriar seu layout ou elemento
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/IsaqueHeck/Página-web.git
+git clone https://github.com/IsaqueHeck/Paginaweb.git
 Abra o arquivo index.html no navegador.
 
 ---
 
-✍️ Autor
+## ✍️ Autor
 Feito por Isaque Heck
